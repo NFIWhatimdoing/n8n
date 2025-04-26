@@ -1,9 +1,9 @@
 {
   "name": "n8n-monorepo",
-  "version": "1.90.2",
+  "version": "1.90.0",
   "private": true,
   "engines": {
-    "node": ">=18.18.0 <22.12.0"
+    "node": ">=18.18.0"
     "pnpm": ">=10.2.1"
   },
   "packageManager": "pnpm@10.2.1",
